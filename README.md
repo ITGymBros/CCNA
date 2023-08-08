@@ -1,4 +1,4 @@
-# Security+ (SY0-601) Notes
+# CCNA (200-301) Notes
 
 ### Description
 
