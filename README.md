@@ -1,4 +1,4 @@
-# Security+ (SY0-601) Notes
+# CCNA (200-301) Notes
 
 ### Description
 
@@ -25,7 +25,7 @@ The sections that have been completed will be noted with a check mark. Furthermo
 Here is what you can expect from the notes going forward:
 
 - [ ] Chapter-01 | Network Fundamentals 
-	- [ ] [Section 01 - Network Component Roles](chapter-01/01-NetworkComponentRoles.md)
+	- [x] [Section 01 - Network Component Roles](chapter-01/01-NetworkComponentRoles.md)
 	- [ ] [Section 02 - Cisco CLI Basics](chapter-01/02-CiscoCLIBasics.md)
 	- [ ] [Section 03 - Intro to Cisco DNA Center](chapter-01/03-CiscoDNACenter.md)
 	- [ ] [Section 04 - Network Topologies](chapter-01/04-NetworkTopologies.md)
