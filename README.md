@@ -28,7 +28,7 @@ Here is what you can expect from the notes going forward:
 	- [x] [Section 01 - Network Component Roles](chapter-01/01-NetworkComponentRoles.md)
 	- [x] [Section 02 - Cisco CLI Basics](chapter-01/02-CiscoCLIBasics.md)
 	- [x] [Section 03 - Intro to Cisco DNA Center](chapter-01/03-CiscoDNACenter.md)
-	- [ ] [Section 04 - Network Topologies](chapter-01/04-NetworkTopologies.md)
+	- [x] [Section 04 - Network Topologies](chapter-01/04-NetworkTopologies.md)
 	- [ ] [Section 05 - Physical Networking](chapter-01/05-PhysicalNetworking.md)
 	- [ ] Section 06 - Networking Basics
 	- [ ] Section 07 - Virtualization Concepts
