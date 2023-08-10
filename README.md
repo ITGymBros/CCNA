@@ -30,7 +30,7 @@ Here is what you can expect from the notes going forward:
 	- [x] [Section 03 - Intro to Cisco DNA Center](chapter-01/03-CiscoDNACenter.md)
 	- [x] [Section 04 - Network Topologies](chapter-01/04-NetworkTopologies.md)
 	- [x] [Section 05 - Physical Networking](chapter-01/05-PhysicalNetworking.md)
-	- [ ] Section 06 - PoE Concepts
+	- [x] [Section 06 - PoE Concepts](chapter-01/06-PoEConcepts.md)
 	- [ ] Section 07 - Common Interface Issues
 	- [ ] Section 08 - TCP and UDP
 	- [ ] Section 09 - IPv4 Addressing
