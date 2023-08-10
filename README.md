@@ -29,10 +29,14 @@ Here is what you can expect from the notes going forward:
 	- [x] [Section 02 - Cisco CLI Basics](chapter-01/02-CiscoCLIBasics.md)
 	- [x] [Section 03 - Intro to Cisco DNA Center](chapter-01/03-CiscoDNACenter.md)
 	- [x] [Section 04 - Network Topologies](chapter-01/04-NetworkTopologies.md)
-	- [ ] [Section 05 - Physical Networking](chapter-01/05-PhysicalNetworking.md)
-	- [ ] Section 06 - Networking Basics
-	- [ ] Section 07 - Virtualization Concepts
-	- [ ] Section 08 - Wireless Configuration
+	- [x] [Section 05 - Physical Networking](chapter-01/05-PhysicalNetworking.md)
+	- [ ] Section 06 - PoE Concepts
+	- [ ] Section 07 - Common Interface Issues
+	- [ ] Section 08 - TCP and UDP
+	- [ ] Section 09 - IPv4 Addressing
+	- [ ] Section 10 - IPv6 Addressing
+	- [ ] Section 11 - Virtualization Concepts
+	- [ ] Section 12 - Wireless Configuration
 - [ ] Chapter-02 | Network Access
 - [ ] Chapter-03 | IP Connectivity
 - [ ] Chapter-04 | IP Services
