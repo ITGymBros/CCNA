@@ -33,7 +33,7 @@ Here is what you can expect from the notes going forward:
 	- [x] [Section 06 - PoE Concepts](chapter-01/06-PoEConcepts.md)
 	- [x] [Section 07 - Common Interface Issues](chapter-01/07-CommonInterfaceIssues.md)
 	- [x] [Section 08 - TCP and UDP](chapter-01/08-TCPandUDP.md)
-	- [ ] Section 09 - IPv4 Addressing
+	- [ ] [Section 09 - IPv4 Addressing](chapter-01/09-IPv4Addressing.md)
 	- [ ] Section 10 - IPv6 Addressing
 	- [ ] Section 11 - Virtualization Concepts
 	- [ ] Section 12 - Wireless Configuration
