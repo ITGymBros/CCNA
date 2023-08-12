@@ -31,7 +31,7 @@ Here is what you can expect from the notes going forward:
 	- [x] [Section 04 - Network Topologies](chapter-01/04-NetworkTopologies.md)
 	- [x] [Section 05 - Physical Networking](chapter-01/05-PhysicalNetworking.md)
 	- [x] [Section 06 - PoE Concepts](chapter-01/06-PoEConcepts.md)
-	- [ ] Section 07 - Common Interface Issues
+	- [x] [Section 07 - Common Interface Issues](chapter-01/07-CommonInterfaceIssues.md)
 	- [ ] Section 08 - TCP and UDP
 	- [ ] Section 09 - IPv4 Addressing
 	- [ ] Section 10 - IPv6 Addressing
